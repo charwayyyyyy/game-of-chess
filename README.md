@@ -4,7 +4,7 @@ MyChess is a fully interactive chess game built with React and Vite. It features
 
 ## Live Demo
 
-Check out the live demo of AgriMart: [chess Live Demo](https://game-of-chess-seven.vercel.app/)
+Check out the live demo of game-of-chess: [chess Live Demo](https://game-of-chess-seven.vercel.app/)
 
 ## Features
 
