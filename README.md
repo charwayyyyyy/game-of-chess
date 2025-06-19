@@ -24,7 +24,7 @@ Check out the live demo of game-of-chess: [chess Live Demo](https://game-of-ches
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mychess.git
+   git clone https://github.com/charwayyyyyy/game-of-chess.git
    ```
 2. Navigate to the project directory:
    ```bash
